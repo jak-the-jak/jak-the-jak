@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @jak-the-jak
 - 👀 I’m interested in electronic engineereing 
 - 🌱 I’m currently learning python 
-- 📫 How to reach me jakanchikmuratbekov@gmail.com
